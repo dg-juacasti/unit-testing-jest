@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node ./src/calculator",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
